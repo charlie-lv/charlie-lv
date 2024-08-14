@@ -1,4 +1,7 @@
-## Hi there 👋
+There are some who call me... Charlie?
+- Currently learning Elixir, Phoenix and LiveView
+- Pronouns: He/Him
+- I got a 5 on the AP CS A exam!
 
 <!--
 **charlie-lv/charlie-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
